@@ -52,7 +52,7 @@ The project focused on building **robust, competition-ready robots** under stric
 
 ### 🎮 Control
 - RC-based manual control system  
-- Differential drive configuration  
+- Differential drive configuration (Note: do check this one for upcoming years)
 
 ---
 
@@ -146,11 +146,10 @@ During match break:
 
 ## 🚀 Future Scope
 
-- Build a **dedicated RoboSoccer team (freshers)** for continuity  
 - Improve drivetrain reliability and stability  
 - Maintain spare components inventory  
 - Develop multiple bots for redundancy  
-- Participate in **external competitions beyond college**  
+- Participate in **external competitions beyond our college**  
 
 ---
 
