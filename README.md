@@ -1,4 +1,4 @@
-# ⚽ RoboSoccer Development Repository
+# ⚽ RoboSoccer Development Repository:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Robotics%20Club-IIT%20Delhi-blue">
